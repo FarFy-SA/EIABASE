@@ -6,11 +6,9 @@ st.set_page_config(page_title="Clase de Programación", layout="wide")
 
 with st.sidebar:
     st.markdown("Clases")
-    st.button("Ejemplo clase 1")
-    st.button("Ejemplo clase 2")
-    st.button("Ejemplo clase 3")
-    st.markdown("---")
-    st.markdown("Persona Ejemplo")
+    st.button("Ejemplo clase guardada 1")
+    st.button("Ejemplo clase guardada 2")
+    st.button("Ejemplo clase guardada 3")
 
 
 st.markdown(
